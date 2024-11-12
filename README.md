@@ -70,7 +70,7 @@ Comment figurer la trace de l'homme sur son environnement ?
 
 - **Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :**   Voulant développer un jeu vidéo par moi-même dans le cadre de ce cours, je cherche un côté contemplatif et quelque peu interactif. Cela reflète mon approche artistique se penchant sur le visuel, bien par la peinture, le dessin avec la 3D. J'aimerai concilier cet ensemble dans un jeu concret. Jusque-là j'ai juste fait un essai de jeu VR avec Unity, qui n'était pas tant concluant que ça.
 - 
-- **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :** Gustave Doré, Dante; Le village de Shyamalan; Gustav Kilmt : La vie et la Mort.
+- **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :** Gustave Doré : Dante; Le village de Shyamalan; Gustav Kilmt : La vie et la Mort; Thomas Ott et la carte à gratter, Peur(s) du noir- Charles Burns; Journey et Sky de thatgamecompany.
 
 
 
