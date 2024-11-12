@@ -47,28 +47,28 @@ Blender, 3D, rig, color grading, sound design, un peu de code et de graphisme.
 
 
 ## Projet et Thématique de Recherche
-Orinisme et surréalisme, quels sont les parallèles ? A quel point les rêves sont personnels et ont-ils une perception intrinsèque à ceux qui les produisent.
+Comment figurer la trace de l'homme sur son environnement ?
 
 # Projet 1
 
 ### Sujet de Projet
 
-- **Titre du projet :** Montagne sacrée
-- **Description du projet (environ 150 mots) :** Monde ouvert en 3e personne sur Unreal Ungine avec un monde créé selon des dessins réalisés au préalable. Un monde assez sombre et symboliste avec des personnages qui transcandent le réel et la mortalité. Un côté contemplatif sera l'intérêt principal du gameplay mais des interactions avec des petits personnages qui passent au fur et à mesure que le personnage avance dans la map apparaitront. Le but du joueur est de comprendre la raison de sa présence dans ce monde onirique.
+- **Titre du projet :** Eternal Valley
+- **Description du projet (environ 150 mots) :** Boucle de jouabilité en 3e personne sur Unity en passant par Blender. On incarne un personnage sembable à une figuration de la faucheuse, avec un long manteau qui parcoure une forêt morte et la longe jusqu'à atteindre une montagne. Le but du jeu est d'atteindre la montagne mais des interactions avec des animaux, insectes et objets numériques désuètes qui passent au fur et à mesure que le personnage avance le pimente. Chaque boucle débloque des interactions nouvelles. Le but du joueur est de comprendre la raison de sa présence dans ce monde en péril.
 
 ### Thématiques de Recherche
 
 - **Thématiques que vous souhaitez explorer :**  La fatalité, le sublime, l'éphémère 
-- **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :** C'est un courant artistique que j'observe et qui m'intéresse depuis longtemps, entre les gravures de Gustave Doré, les peintures et dessins diformes, les créatures imaginaires qui sont sous-jaccentes à ce
+- **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :** C'est un courant artistique que j'observe et qui m'intéresse depuis longtemps, entre les gravures de Gustave Doré, les peintures et dessins diformes, les créatures imaginaires qui sont sous-jaccentes à ce mouvement artistique.
 
 ## Outils et Techniques
 
-- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :** Unreal Engine, Blender, python (VS Code)
-- **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :**  L'interaction des personnages sur Unreal Engine, savoir utiliser l'application en général aussi.
+- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :** Unity, Blender, python (VS Code)
+- **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :**  L'interaction des personnages sur Unity, savoir utiliser l'application en général aussi. Les textures dessinées, le grease pencil.
 
 ## Références Artistiques
 
-- **Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :**   Voulant développer un jeu vidéo par moi-même dans le cadre de ce cours, je me limite à un côté contemplatif par manque de temps et cela reflète mon approche artistique se penchant sur le visuel, bien par la peinture, le dessin et avec la 3D. J'aimerai concilier cet ensemble dans un jeu concret, jusque-là j'ai juste fait un essai de jeu VR avec Unity, qui n'était pas tant concluant que ça.
+- **Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :**   Voulant développer un jeu vidéo par moi-même dans le cadre de ce cours, je cherche un côté contemplatif et quelque peu interactif. Cela reflète mon approche artistique se penchant sur le visuel, bien par la peinture, le dessin avec la 3D. J'aimerai concilier cet ensemble dans un jeu concret. Jusque-là j'ai juste fait un essai de jeu VR avec Unity, qui n'était pas tant concluant que ça.
 - 
 - **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :** Gustave Doré, Dante; Le village de Shyamalan; Gustav Kilmt : La vie et la Mort.
 
