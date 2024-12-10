@@ -95,16 +95,16 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 
 ### **PRÉSENTATION DE 20 MINUTES SUR UN SUJET ARTISTIQUE/DESIGN (RECHERCHE THÉORIQUE)**
 
-
+2e semestre
 
 ## Planification
 
 ### Planning de Travail
 
 - Établissez un planning des étapes clés pour votre projet :
-  - **Étape 1 :** Date et description   
-  - **Étape 2 :** Date et description   
-  - **Étape 3 :** Date et description 
+  - **Étape 1 :** Date et description   Croquis et charac design + scénario (octobre)
+  - **Étape 2 :** Date et description   Modéllisation 3D + dialogues avec code + Blender à Unity et texturing (novembre)
+  - **Étape 3 :** Date et description   Unity : contrôles, interactions, jouabilité et animations, looping
 
 
 
@@ -117,4 +117,6 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
 
 
 # Journal de bord
+
+
 
