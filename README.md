@@ -54,7 +54,7 @@ Comment figurer la trace de l'homme sur son environnement ?
 ### Sujet de Projet
 
 - **Titre du projet :** Eternal Valley
-- **Description du projet (environ 150 mots) :** Boucle de jouabilité en 3e personne sur Unity en passant par Blender. On incarne un personnage sembable à une figuration de la faucheuse, avec un long manteau qui parcoure une forêt morte et la longe jusqu'à atteindre une montagne. Le but du jeu est d'atteindre la montagne mais des interactions avec des animaux, insectes et objets numériques désuètes qui passent au fur et à mesure que le personnage avance le pimente. Chaque boucle débloque des interactions nouvelles. Le but du joueur est de comprendre la raison de sa présence dans ce monde en péril.
+- **Description du projet (environ 150 mots) :** Boucle de jouabilité en 3e personne sur Unity en passant par Blender. On incarne un personnage sembable à une figuration de la faucheuse, avec un long manteau qui parcoure une forêt morte et la longe jusqu'à atteindre une montagne. Le but du jeu est d'atteindre la montagne mais des interactions avec des animaux, insectes et objets numériques désuètes qui passent au fur et à mesure que le personnage avance. Chaque boucle débloque de nouvelles interactions. Le but du joueur est de comprendre la raison de sa présence dans ce monde en péril.
 
 ### Thématiques de Recherche
 
@@ -82,12 +82,20 @@ Comment figurer la trace de l'homme sur son environnement ?
 
 // Décrivez comment vous comptez contribuer au projet d'un autre étudiant (proposition d'idées, aide technique, etc.) : 
 
+Aide avec de la modélisation ou les noeuds de géométrie de Blender. Aide éventuelle au niveau des textures.
+-Jolaine avec les raccourcis Blender et des propositions de modélisations et textures pour ses tableaux.
+
+
 ### **CRÉATION D'UN SUJET DE RECHERCHE**
 // Vous devrez tous écrire un sujet de recherche, une thématique ou un propos de création lié à l'un de vos projets. Par exemple, si vous avez un projet de création d'un outil de capture d'image basé sur des algorithmes, vous devrez formuler un intitulé pour cette pratique : « Création de capture d'image algorithmique sur mobile ».
+
+Rendre un jeu ludique avec une narration et des graphismes simples.
 
 ### Participation à un Sujet de Recherche
 
 // Quel sujet de recherche proposé par un étudiant vous intéresse et pourquoi ? : 
+
+Celui de Bastien, car il questionne l'interactivité des jeux et essaye de toucher à tous les sens, j'essaie de faire de mes jeux des expériences sonores.
 
 ### Contributions aux ressources
 
